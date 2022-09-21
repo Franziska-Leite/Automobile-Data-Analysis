@@ -1,2 +1,3 @@
 # Automobile-Data-Analysis
-Python notebook for the analysis of main characteristics that have the most impact on the car price.
+In this Python notebook, we wanted to explore features or charecteristics to predict price of cars.
+Different data analysis methods have been used, including descriptive statistics, grouping, correlation analysis and diferent visualization techniques (boxplot, heatmap, regression line plot).
